@@ -1,63 +1,82 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername&" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Simon;Reverse+Engineer;Python+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-###
+<h1 align="center">👨‍💻 Reverse Engineer & Developer</h1>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
-###
+<p align="center">
+  <em>Creating bugs since 2020 | Based in Slovakia</em>
+</p>
 
-<p align="left">My name is Simon and I'm a reverse engineer, from Slovakia.</p>
+<br>
 
-###
+## 🔐 About Me
 
-<h2 align="left">About me</h2>
+```python
+class Simon:
+    def __init__(self):
+        self.name = "Simon"
+        self.role = "Reverse Engineer"
+        self.language_spoken = ["sk_SK", "en_US"]
+        self.currently_learning = "Rust (been told it's useful lol)"
+        self.interests = ["reverse engineering", "game modding", "security research"]
+        self.goals = ["create my own scripting language", "build an injection framework"]
+        
+    def say_hi(self):
+        print("Most of my repos are private, but I'm slowly making them public...")
+        
+me = Simon()
+me.say_hi()
+```
 
-###
+## 💻 Tech Stack
 
-<p align="left">✨ Creating bugs since 2020, passionate reverse engineer, love making QoL tools that save a lot of time, most repos private, slowly coming for other to see aswell.. <br>📚 I'm currently learning: advanced reverse engineering techniques<br>🎯 Goals: make my own scripting language and injection framework.<br>🎮 I occasionally play Minecraft and BrawlStars (which I've reverse engineered)</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />&nbsp;
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />&nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
 
-###
+## 🔧 Tools of the Trade
 
-<h2 align="left">I code with</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frida-F04E98?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />&nbsp;
+  <img src="https://img.shields.io/badge/Ghidra-DB4128?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />&nbsp;
+  <img src="https://img.shields.io/badge/IDA Pro-5BA1E5?style=for-the-badge&logo=ida&logoColor=white" alt="IDA Pro" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-###
+## 🎮 Gaming
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-</div>
+<p align="center">
+  <em>I occasionally play Minecraft and BrawlStars (which I've reverse engineered)</em>
+</p>
 
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-###
-
-<h2 align="left">Tools I use</h2>
-
-###
-
-<div align="left">
-  <img src="https://ghidra-sre.org/images/GHIDRA_1.png" height="40" alt="ghidra logo" />
-  <img width="12" />
-  <img src="https://www.kali.org/tools/ida/images/ida-logo.svg" height="40" alt="ida logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/4073090" height="40" alt="frida logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-###
+## 🌟 Featured Projects
+
+<p align="center">
+  <em>Most of my repositories are currently private. I'm working on releasing them gradually!</em>
+</p>
+
+---
+
+<p align="center">
+  <em>💬 Feel free to reach out if you're interested in reverse engineering!</em>
+</p>
