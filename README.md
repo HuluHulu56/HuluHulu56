@@ -5,7 +5,7 @@
 <h1 align="center">👨‍💻 Reverse Engineer & Developer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HuluHulu56&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
