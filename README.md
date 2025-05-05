@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Simon;Reverse+Engineer;Python+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<h1 align="center">👨‍💻 Reverse Engineer & Developer</h1>
+<h1 align="center">:coffee: Reverse Engineer & Developer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HuluHulu56&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
@@ -44,7 +44,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-## 🔧 Tools of the Trade
+## 🔧 Tools i use on daily basis
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frida-F04E98?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />&nbsp;
@@ -53,27 +53,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## 🎮 Gaming
-
-<p align="center">
-  <em>I occasionally play Minecraft and BrawlStars (which I've reverse engineered)</em>
-</p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🌟 Featured Projects
-
-<p align="center">
-  <em>Most of my repositories are currently private. I'm working on releasing them gradually!</em>
-</p>
 
 ---
 
