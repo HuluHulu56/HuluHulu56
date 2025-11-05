@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>Creating bugs since 2020 | Based in Slovakia</em>
+  <em>Creating bugs since 2018 | Based in Slovakia</em> 
 </p>
 
 <br>
@@ -21,7 +21,7 @@ class Simon:
     def __init__(self):
         self.name = "Simon"
         self.role = "Reverse Engineer"
-        self.language_spoken = ["sk_SK", "en_US"]
+        self.language_spoken = ["sk_SK", "en_US", "de_DE" ]
         self.currently_learning = "Rust (been told it's useful lol)"
         self.interests = ["reverse engineering", "game modding", "security research"]
         self.goals = ["create my own scripting language", "build an injection framework"]
