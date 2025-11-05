@@ -36,22 +36,43 @@ me.say_hi()
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />&nbsp;
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>&nbsp;
+  <a href="https://www.electronjs.org/">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  </a>&nbsp;
+  <a href="https://godotengine.org/">
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
 </p>
 
-## 🔧 Tools i use on daily basis
+## 🔧 Tools I Use on a Daily Basis
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frida-F04E98?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />&nbsp;
-  <img src="https://img.shields.io/badge/Ghidra-DB4128?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />&nbsp;
-  <img src="https://img.shields.io/badge/IDA Pro-5BA1E5?style=for-the-badge&logo=ida&logoColor=white" alt="IDA Pro" />&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://frida.re/">
+    <img src="https://img.shields.io/badge/Frida-F04E98?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
+  </a>&nbsp;
+  <a href="https://ghidra-sre.org/">
+    <img src="https://img.shields.io/badge/Ghidra-DB4128?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
+  </a>&nbsp;
+  <a href="https://hex-rays.com/ida-pro/">
+    <img src="https://img.shields.io/badge/IDA%20Pro-5BA1E5?style=for-the-badge&logo=ida&logoColor=white" alt="IDA Pro" />
+  </a>&nbsp;
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  </a>
 </p>
+
 
 
 ---
