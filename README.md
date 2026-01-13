@@ -78,5 +78,5 @@ me.say_hi()
 ---
 
 <p align="center">
-  <em>💬 Feel free to reach out to me, discord @rehubl </em>
+  <em>💬 Feel free to reach out to me, discord @HuluHulu56 </em>
 </p>
