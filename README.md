@@ -23,8 +23,8 @@ class Simon:
         self.role = "Reverse Engineer"
         self.language_spoken = ["sk_SK", "en_US", "de_DE" ]
         self.currently_learning = "Rust (been told it's useful lol)"
-        self.interests = ["reverse engineering", "game modding", "security research"]
-        self.goals = ["create my own scripting language", "build an injection framework"]
+        self.interests = ["reverse engineering", "game modding", "prime numbers research", "security research"]
+        self.goals = ["create my own scripting language", "build an injection framework", "contribute to math research"]
         
     def say_hi(self):
         print("Most of my repos are private, but I'm slowly making them public...")
